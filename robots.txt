@@ -1,0 +1,12 @@
+# Humans: http://www.mon-domaine.fr/humans.txt
+Sitemap: http://www.mon-domaine.fr/sitemap.xml
+
+User-agent: *
+Disallow: /_modop/
+Disallow: /controllers/
+Disallow: /medias/creations/
+Disallow: /medias/*/_*
+Disallow: /models/
+Disallow: /settings/
+Disallow: /views/back/
+Disallow: /views/middle/

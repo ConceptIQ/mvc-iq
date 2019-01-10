@@ -1,0 +1,33 @@
+/* TEAM */
+    Job Position : 
+    Identity : Your name.
+    Site URL : link to a contact form, etc.
+    Location: City, Country.
+    Contact : email, phone
+    Social network :
+        LinkedIn :
+        Facebook :
+        Twitter :
+        Instagram :
+        Google+ :
+
+/* THANKS */
+    Name: name or url
+
+/* SITE */
+    Site name :
+    Site URL :
+    Language :
+    Site URL : link to a contact form, etc.
+    Location: City, Country.
+    Contact : email, phone
+    Social network :
+        LinkedIn :
+        Facebook :
+        Twitter :
+        Instagram :
+        Google+ :
+    Last update: YYYY/MM/DD
+    Standards: HTML5, CSS3,..
+    Components: Modernizr, jQuery, etc.
+    Software: Software used for the development

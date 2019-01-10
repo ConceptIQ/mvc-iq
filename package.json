@@ -1,0 +1,9 @@
+{
+    "name"          : "__",
+    "version"       : "0.1.0",
+    "description"   : "Mettez une description dedans. C'est une ficelle. Cela aide les gens à découvrir votre forfait, comme indiqué dans npm search.",
+    "keywords"      : "Mettez des mots-clés dedans. C'est un tableau de chaînes. Cela aide les gens à découvrir votre forfait tel qu’il est répertorié dans npm search.",
+    "homepage"      : "http://__.io",
+    "bugs"          : "bugs@__.io",
+    "license"       : "unlicensed"
+}
